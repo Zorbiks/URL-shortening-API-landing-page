@@ -5,6 +5,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 <<<<<<< HEAD
+<<<<<<< HEAD
 lerna-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
@@ -139,6 +140,8 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 =======
+=======
+>>>>>>> origin/main
 pnpm-debug.log*
 lerna-debug.log*
 
@@ -157,4 +160,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 >>>>>>> dd0cdf1 (initial commit)
+=======
+>>>>>>> origin/main
